@@ -1,2 +1,2 @@
 <?php
-echo '<br />B: ';
+echo '<br />C: ';
