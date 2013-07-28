@@ -1,4 +1,4 @@
-$(document).ready( function () {
+window.fplAnalyzeTrigger = function () {
 	$('.ismPagPrev, .ismPagNext').click(function () {
 	    fixArr = {};
 	    $.each($(".ismFixtureTable tbody tr"), function (e, t) {
@@ -10,4 +10,4 @@ $(document).ready( function () {
 	        $(t).find(".ismElementDetail dd").html(fixArr[$(t).find(".ismShirt").attr("title")].replace(" ", ""))
 	    })
 	})	
-} )
+}
