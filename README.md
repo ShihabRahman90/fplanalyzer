@@ -26,4 +26,5 @@ team is any good for the forseeable future. On Transfer page, shuffle your team,
 If it doesn't work, you can open issues here on github. You can also find me on [FFS](http://fantasyfootballscout.co.uk) (esalman) or [FFPBD Facebook page](https://www.facebook.com/groups/234846293222683/) (Salman Mustafa)
 
 **Update (7/29/13):** Firefox issue fixed, tested on Firefox, Chorme and IE latest versions.
+
 **Known issue (7/29/13):** Doesn't work on Firefox, will fix it shortly.
