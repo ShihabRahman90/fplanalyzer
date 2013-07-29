@@ -23,8 +23,7 @@ on [fantasy.premierleague.com](http://fantasy.premierleague.com).
 You can use it for strategizing in different ways. On Pick Team page, navigate to different gameweeks and click the bookmark to see if your current
 team is any good for the forseeable future. On Transfer page, shuffle your team, navigate to another GW and click the bookmark to strategize.
 
-If it doesn't work, you can open issues here on github. You can also find me on [FFS](http://fantasyfootballscout.co.uk) (esalman) or [FFPBD Facebook page](https://www.facebook.com/groups/234846293222683/) (Salman Mustafa)
+If it doesn't work, you can open issues here on github.
 
-**Update (7/29/13):** Firefox issue fixed, tested on Firefox, Chorme and IE latest versions.
-
-**Known issue (7/29/13):** Doesn't work on Firefox, will fix it shortly.
+- [x] **Update (7/29/13):** Firefox issue fixed, tested on Firefox, Chorme and IE latest versions.
+- [x] **Known issue (7/29/13):** Doesn't work on Firefox, will fix it shortly.
